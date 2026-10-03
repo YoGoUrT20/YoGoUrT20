@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=YoGoUrT20&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
+<img src="https://komarev.com/ghpvc/?username=YoGoUrT20&label=Visitors&color=008042&style=flat" alt="Visitors" />
 
 📩・**Want to reach? Add [@YoGoUrT20](https://discord.com/users/439843686482837504) on [Discord](https://discord.gg/VKd93svWdv)**
 </a>\
